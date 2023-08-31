@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Game.Bowling.Consumer/1.0.0": {
+        "dependencies": {
+          "Game.Bowling": "1.0.0"
+        },
+        "runtime": {
+          "Game.Bowling.Consumer.dll": {}
+        }
+      },
+      "Game.Bowling/1.0.0": {
+        "runtime": {
+          "Game.Bowling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game.Bowling.Consumer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Game.Bowling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\obj\Debug\netcoreapp3.1\Game.Bowling.Consumer.csproj.AssemblyReference.cache
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\obj\Debug\netcoreapp3.1\Game.Bowling.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\obj\Debug\netcoreapp3.1\Game.Bowling.Consumer.AssemblyInfoInputs.cache
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\obj\Debug\netcoreapp3.1\Game.Bowling.Consumer.AssemblyInfo.cs
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\obj\Debug\netcoreapp3.1\Game.Bowling.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\bin\Debug\netcoreapp3.1\Game.Bowling.Consumer.exe
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\bin\Debug\netcoreapp3.1\Game.Bowling.Consumer.deps.json
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\bin\Debug\netcoreapp3.1\Game.Bowling.Consumer.runtimeconfig.json
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\bin\Debug\netcoreapp3.1\Game.Bowling.Consumer.runtimeconfig.dev.json
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\bin\Debug\netcoreapp3.1\Game.Bowling.Consumer.dll
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\bin\Debug\netcoreapp3.1\Game.Bowling.Consumer.pdb
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\bin\Debug\netcoreapp3.1\Game.Bowling.dll
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\bin\Debug\netcoreapp3.1\Game.Bowling.pdb
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\obj\Debug\netcoreapp3.1\Game.Bowling.Consumer.csproj.CopyComplete
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\obj\Debug\netcoreapp3.1\Game.Bowling.Consumer.dll
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\obj\Debug\netcoreapp3.1\Game.Bowling.Consumer.pdb
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\BowlingGame\obj\Debug\netcoreapp3.1\Game.Bowling.Consumer.genruntimeconfig.cache

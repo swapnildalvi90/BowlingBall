@@ -1,0 +1,5 @@
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling.UnitTests\obj\Debug\netcoreapp3.1\Game.Bowling.UnitTests.csproj.AssemblyReference.cache
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling.UnitTests\obj\Debug\netcoreapp3.1\Game.Bowling.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling.UnitTests\obj\Debug\netcoreapp3.1\Game.Bowling.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling.UnitTests\obj\Debug\netcoreapp3.1\Game.Bowling.UnitTests.AssemblyInfo.cs
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling.UnitTests\obj\Debug\netcoreapp3.1\Game.Bowling.UnitTests.csproj.CoreCompileInputs.cache

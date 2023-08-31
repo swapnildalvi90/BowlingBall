@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "izX+h+CIRB2n0PLd6C5xwVnTSS0/LWxGHfxu6J/65vHFkm8zQuw0AuNTEa4u+6zi094xQG8dKEAgw707WgXtvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Swapnil\\Downloads\\BowlingBall-bowling-ball\\BowlingBall-bowling-ball\\Game.Bowling\\Game.Bowling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Swapnil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Swapnil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

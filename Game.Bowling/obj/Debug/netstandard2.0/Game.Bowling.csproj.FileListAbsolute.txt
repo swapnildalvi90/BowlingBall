@@ -1,0 +1,10 @@
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling\obj\Debug\netstandard2.0\Game.Bowling.csproj.AssemblyReference.cache
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling\obj\Debug\netstandard2.0\Game.Bowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling\obj\Debug\netstandard2.0\Game.Bowling.AssemblyInfoInputs.cache
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling\obj\Debug\netstandard2.0\Game.Bowling.AssemblyInfo.cs
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling\obj\Debug\netstandard2.0\Game.Bowling.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling\bin\Debug\netstandard2.0\Game.Bowling.deps.json
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling\bin\Debug\netstandard2.0\Game.Bowling.dll
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling\bin\Debug\netstandard2.0\Game.Bowling.pdb
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling\obj\Debug\netstandard2.0\Game.Bowling.dll
+C:\Users\Swapnil\Downloads\BowlingBall-bowling-ball\BowlingBall-bowling-ball\Game.Bowling\obj\Debug\netstandard2.0\Game.Bowling.pdb
